@@ -73,12 +73,3 @@ Loss Metrics
 
 -Combining automated agent pre labeling with domain expert review creates an efficient hybrid pipeline that overcomes manual annotation bottlenecks.
 
-
-# What I learnt
-
-
-## Practical / code
-
-## Assignment / homework
-
-## Questions / things to revisit
