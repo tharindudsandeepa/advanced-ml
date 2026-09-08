@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.venv/
+
+
+__pycache__/
+*.csv
+*.log
+*.temp
+
+
+*.env
+*.env.*
